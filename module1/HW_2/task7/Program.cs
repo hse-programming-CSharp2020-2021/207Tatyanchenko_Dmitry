@@ -54,7 +54,7 @@ namespace task7
             }
             else 
             {
-                Console.WriteLine("Square: {0}, square root of the inserted number lies in range of complex numbers.", r[0]);
+                Console.WriteLine("Square: {0}, square root of the number lies in range of complex numbers.", r[0]);
             }
         }
     }
