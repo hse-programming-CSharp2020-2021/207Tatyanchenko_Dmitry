@@ -3,7 +3,7 @@
 
 using System;
 
-namespace s1dz3
+namespace task2_auf
 {
     class MainClass
     {

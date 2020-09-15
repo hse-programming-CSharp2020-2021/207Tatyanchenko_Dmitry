@@ -3,7 +3,7 @@
 
 using System;
 
-namespace HW_2
+namespace task1
 {
     class MainClass
     {

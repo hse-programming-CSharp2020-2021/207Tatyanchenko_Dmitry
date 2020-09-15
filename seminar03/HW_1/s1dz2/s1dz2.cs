@@ -4,7 +4,7 @@
 
 using System;
 
-namespace s1dz2
+namespace task11
 {
     class MainClass
     {

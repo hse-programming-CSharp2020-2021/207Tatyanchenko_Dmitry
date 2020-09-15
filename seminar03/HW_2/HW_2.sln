@@ -1,8 +1,6 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "HW_2\task1.csproj", "{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task2", "task2\task2.csproj", "{2E014D16-F5BE-491A-AE1A-5E0B36F75C37}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3", "task3\task3.csproj", "{D5E4DC30-2E24-4192-91F8-379A01E743C9}"
@@ -17,16 +15,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task7", "task7\task7.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cass_task7", "Cass_task7\Cass_task7.csproj", "{F33F541F-537A-4848-99BA-7CF68EBE1807}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task1", "task1\task1.csproj", "{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Debug|x86.ActiveCfg = Debug|x86
-		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Debug|x86.Build.0 = Debug|x86
-		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Release|x86.ActiveCfg = Release|x86
-		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Release|x86.Build.0 = Release|x86
 		{2E014D16-F5BE-491A-AE1A-5E0B36F75C37}.Debug|x86.ActiveCfg = Debug|x86
 		{2E014D16-F5BE-491A-AE1A-5E0B36F75C37}.Debug|x86.Build.0 = Debug|x86
 		{2E014D16-F5BE-491A-AE1A-5E0B36F75C37}.Release|x86.ActiveCfg = Release|x86
@@ -55,5 +51,9 @@ Global
 		{F33F541F-537A-4848-99BA-7CF68EBE1807}.Debug|x86.Build.0 = Debug|x86
 		{F33F541F-537A-4848-99BA-7CF68EBE1807}.Release|x86.ActiveCfg = Release|x86
 		{F33F541F-537A-4848-99BA-7CF68EBE1807}.Release|x86.Build.0 = Release|x86
+		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Debug|x86.ActiveCfg = Debug|x86
+		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Debug|x86.Build.0 = Debug|x86
+		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Release|x86.ActiveCfg = Release|x86
+		{BEDDDEBE-2E0D-45F8-8A1E-DCE55488C673}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
