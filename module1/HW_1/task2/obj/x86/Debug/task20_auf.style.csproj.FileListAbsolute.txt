@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/s1dz3/bin/Debug/s1dz3.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/s1dz3/bin/Debug/s1dz3.pdb
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/s1dz3/obj/x86/Debug/task20_auf.style.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/s1dz3/obj/x86/Debug/s1dz3.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/s1dz3/obj/x86/Debug/s1dz3.pdb

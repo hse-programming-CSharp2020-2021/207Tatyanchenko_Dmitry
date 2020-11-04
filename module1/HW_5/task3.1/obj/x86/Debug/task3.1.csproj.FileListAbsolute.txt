@@ -1,0 +1,6 @@
+/Users/Dmitriy/Projects/HW_5/task3.1/bin/Debug/task3.1.exe
+/Users/Dmitriy/Projects/HW_5/task3.1/bin/Debug/task3.1.pdb
+/Users/Dmitriy/Projects/HW_5/task3.1/obj/x86/Debug/task3.1.csprojAssemblyReference.cache
+/Users/Dmitriy/Projects/HW_5/task3.1/obj/x86/Debug/task3.1.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Projects/HW_5/task3.1/obj/x86/Debug/task3.1.exe
+/Users/Dmitriy/Projects/HW_5/task3.1/obj/x86/Debug/task3.1.pdb

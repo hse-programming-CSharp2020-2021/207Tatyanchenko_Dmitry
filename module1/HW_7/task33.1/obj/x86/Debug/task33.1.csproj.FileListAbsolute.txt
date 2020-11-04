@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.1/bin/Debug/task33.1.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.1/bin/Debug/task33.1.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.1/obj/x86/Debug/task33.1.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.1/obj/x86/Debug/task33.1.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.1/obj/x86/Debug/task33.1.pdb

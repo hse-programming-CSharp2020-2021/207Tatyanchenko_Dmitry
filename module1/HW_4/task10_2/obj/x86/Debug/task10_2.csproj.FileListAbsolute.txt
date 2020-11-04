@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_4/task10_2/bin/Debug/task10_2.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_4/task10_2/bin/Debug/task10_2.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_4/task10_2/obj/x86/Debug/task10_2.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_4/task10_2/obj/x86/Debug/task10_2.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_4/task10_2/obj/x86/Debug/task10_2.pdb

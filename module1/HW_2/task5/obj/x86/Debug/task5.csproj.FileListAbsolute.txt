@@ -1,0 +1,12 @@
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/bin/Debug/task5.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/bin/Debug/task5.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/obj/x86/Debug/task5.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/obj/x86/Debug/task5.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/obj/x86/Debug/task5.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/task5/obj/x86/Debug/task5.csprojAssemblyReference.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/bin/Debug/task5.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/bin/Debug/task5.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/obj/x86/Debug/task5.csprojAssemblyReference.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/obj/x86/Debug/task5.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/obj/x86/Debug/task5.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task5/obj/x86/Debug/task5.pdb

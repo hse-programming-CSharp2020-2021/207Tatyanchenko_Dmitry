@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task40/bin/Debug/task40.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task40/bin/Debug/task40.pdb
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task40/obj/x86/Debug/task40.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task40/obj/x86/Debug/task40.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task40/obj/x86/Debug/task40.pdb

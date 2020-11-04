@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C556A07F-662A-4502-97FD-8F76CFEC055B}|Default">
+  <MonoDevelop.Ide.ItemProperties.task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task3/Program.cs">
+    <Files>
+      <File FileName="task1/Program.cs" Line="51" Column="14" />
+      <File FileName="task2/Program.cs" Line="90" Column="17" />
+      <File FileName="auf_style_95/Program.cs" Line="1" Column="1" />
+      <File FileName="task3/Program.cs" Line="10" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW2" expanded="True" selected="True">
+            <Node name="my_cool_comparer_auf_style_95" expanded="True" />
+            <Node name="task1" expanded="True" />
+            <Node name="task2" expanded="True" />
+            <Node name="task3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.task3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

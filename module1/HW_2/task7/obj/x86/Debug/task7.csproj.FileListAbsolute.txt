@@ -1,0 +1,10 @@
+/Users/Dmitriy/Desktop/projects C#/HW_2/task7/bin/Debug/task7.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task7/bin/Debug/task7.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/task7/obj/x86/Debug/task7.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_2/task7/obj/x86/Debug/task7.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task7/obj/x86/Debug/task7.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task7/bin/Debug/task7.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task7/bin/Debug/task7.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task7/obj/x86/Debug/task7.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task7/obj/x86/Debug/task7.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_2/task7/obj/x86/Debug/task7.pdb

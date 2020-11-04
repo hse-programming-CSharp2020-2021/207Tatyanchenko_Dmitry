@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{513C1515-EBC3-4D16-8373-CAA66B019A5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.task11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task5/Program.cs">
+    <Files>
+      <File FileName="task01var1/dz1v1.cs" Line="1" Column="1" />
+      <File FileName="task01var2/dz1v2.cs" Line="1" Column="1" />
+      <File FileName="task1/s1dz2.cs" Line="1" Column="1" />
+      <File FileName="task2/dz3.cs" Line="1" Column="1" />
+      <File FileName="task3/Program.cs" Line="1" Column="1" />
+      <File FileName="task4/Program.cs" Line="1" Column="1" />
+      <File FileName="task5/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_1" expanded="True">
+            <Node name="task10var1" expanded="True" />
+            <Node name="task10var2" expanded="True" />
+            <Node name="task11" expanded="True" />
+            <Node name="task20_auf" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="task30_ACIIDecoder" expanded="True" />
+            <Node name="task40" expanded="True" />
+            <Node name="task50" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

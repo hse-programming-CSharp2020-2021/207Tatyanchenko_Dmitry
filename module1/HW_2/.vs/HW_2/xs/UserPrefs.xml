@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FCD234E6-CEE3-40FB-89B5-58B039B75BA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="task5/Program.cs">
+    <Files>
+      <File FileName="task2/Program.cs" Line="24" Column="18" />
+      <File FileName="task5/Program.cs" Line="42" Column="10" />
+      <File FileName="task4/Program.cs" Line="68" Column="18" />
+      <File FileName="task6/Program.cs" Line="22" Column="10" />
+      <File FileName="task7/Program.cs" Line="54" Column="14" />
+      <File FileName="Cass_task7/Program.cs" Line="19" Column="86" />
+      <File FileName="task3/Program.cs" Line="43" Column="14" />
+      <File FileName="task1/Program.cs" Line="11" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_2" expanded="True">
+            <Node name="task3" expanded="True" />
+            <Node name="task4" expanded="True" />
+            <Node name="task5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="task6" expanded="True" />
+            <Node name="task7" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.task5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Cass__task7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.task7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

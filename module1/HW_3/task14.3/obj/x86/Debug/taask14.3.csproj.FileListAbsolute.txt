@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/HW_3/taask14.3/bin/Debug/taask14.3.exe
+/Users/Dmitriy/Desktop/projects C#/HW_3/taask14.3/bin/Debug/taask14.3.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_3/taask14.3/obj/x86/Debug/taask14.3.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_3/taask14.3/obj/x86/Debug/taask14.3.exe
+/Users/Dmitriy/Desktop/projects C#/HW_3/taask14.3/obj/x86/Debug/taask14.3.pdb

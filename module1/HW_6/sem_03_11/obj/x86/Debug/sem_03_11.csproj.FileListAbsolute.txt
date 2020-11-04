@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_6/sem_03_11/bin/Debug/sem_03_11.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_6/sem_03_11/bin/Debug/sem_03_11.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_6/sem_03_11/obj/x86/Debug/sem_03_11.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_6/sem_03_11/obj/x86/Debug/sem_03_11.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_6/sem_03_11/obj/x86/Debug/sem_03_11.pdb

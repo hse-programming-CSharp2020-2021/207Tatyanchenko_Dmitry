@@ -1,0 +1,10 @@
+/Users/Dmitriy/Desktop/project1_C#/prog1/s1dz1var2/bin/Debug/s1dz1var2.exe
+/Users/Dmitriy/Desktop/project1_C#/prog1/s1dz1var2/bin/Debug/s1dz1var2.pdb
+/Users/Dmitriy/Desktop/project1_C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/project1_C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.exe
+/Users/Dmitriy/Desktop/project1_C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.pdb
+/Users/Dmitriy/Desktop/projects C#/prog1/s1dz1var2/bin/Debug/s1dz1var2.exe
+/Users/Dmitriy/Desktop/projects C#/prog1/s1dz1var2/bin/Debug/s1dz1var2.pdb
+/Users/Dmitriy/Desktop/projects C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.exe
+/Users/Dmitriy/Desktop/projects C#/prog1/s1dz1var2/obj/x86/Debug/s1dz1var2.pdb

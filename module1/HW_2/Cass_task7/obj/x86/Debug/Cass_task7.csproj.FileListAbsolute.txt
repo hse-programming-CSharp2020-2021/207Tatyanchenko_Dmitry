@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/HW_2/Cass_task7/bin/Debug/Cass_task7.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/Cass_task7/bin/Debug/Cass_task7.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/Cass_task7/obj/x86/Debug/Cass_task7.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_2/Cass_task7/obj/x86/Debug/Cass_task7.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/Cass_task7/obj/x86/Debug/Cass_task7.pdb

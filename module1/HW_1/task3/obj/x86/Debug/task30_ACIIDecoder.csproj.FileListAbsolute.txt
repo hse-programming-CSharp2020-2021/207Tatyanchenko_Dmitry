@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task30/obj/x86/Debug/task30_ACIIDecoder.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task30/bin/Debug/task30.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task30/bin/Debug/task30.pdb
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task30/obj/x86/Debug/task30.exe
+/Users/Dmitriy/Desktop/projects C#/seminar1dzTatyanchenko/task30/obj/x86/Debug/task30.pdb

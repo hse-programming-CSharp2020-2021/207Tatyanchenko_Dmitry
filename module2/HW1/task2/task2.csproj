@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{2D7B087A-80C9-418C-9E25-8C99CD3F106F}</ProjectGuid>
+    <ProjectGuid>{DD1666AA-3F66-4B46-96BB-33750D436202}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>task2</RootNamespace>
     <AssemblyName>task2</AssemblyName>
@@ -30,6 +30,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

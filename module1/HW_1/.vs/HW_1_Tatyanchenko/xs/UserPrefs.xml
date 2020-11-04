@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{513C1515-EBC3-4D16-8373-CAA66B019A5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.s1dz3 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="s1dz3/Program.cs">
+    <Files>
+      <File FileName="s1dz2/s1dz2.cs" Line="17" Column="1" />
+      <File FileName="s1dz3/Program.cs" Line="9" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_1_Tatyanchenko" expanded="True">
+            <Node name="s1dz1var1" expanded="True" selected="True" />
+            <Node name="s1dz1var2" expanded="True" />
+            <Node name="s1dz2" expanded="True" />
+            <Node name="s1dz3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.s1dz2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.s1dz1var1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

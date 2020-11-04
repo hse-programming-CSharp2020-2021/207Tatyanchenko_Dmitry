@@ -1,0 +1,6 @@
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/obj/x86/Debug/task1.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/bin/Debug/HW_2.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/bin/Debug/HW_2.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/obj/x86/Debug/HW_2.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/obj/x86/Debug/HW_2.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/HW_2/obj/x86/Debug/task1.csprojAssemblyReference.cache

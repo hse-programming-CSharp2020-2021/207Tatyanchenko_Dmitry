@@ -1,0 +1,5 @@
+/Users/Dmitriy/Desktop/projects C#/HW_2/task4/bin/Debug/task4.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task4/bin/Debug/task4.pdb
+/Users/Dmitriy/Desktop/projects C#/HW_2/task4/obj/x86/Debug/task4.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/projects C#/HW_2/task4/obj/x86/Debug/task4.exe
+/Users/Dmitriy/Desktop/projects C#/HW_2/task4/obj/x86/Debug/task4.pdb

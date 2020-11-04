@@ -1,0 +1,6 @@
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/bin/Debug/task33.2.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/bin/Debug/task33.2.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/obj/x86/Debug/task33.2.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/obj/x86/Debug/task33.2.exe
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/obj/x86/Debug/task33.2.pdb
+/Users/Dmitriy/Desktop/test1/207Tatyanchenko_Dmitry/module1/HW_7/task33.2/obj/x86/Debug/task33.2.csprojAssemblyReference.cache
