@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enclosure", "Enclosure\Encl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{A79DC33C-244B-4E3F-8E02-F5063ED94BD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFigure", "IFigure\IFigure.csproj", "{0288A4DC-80E8-44E4-A5A7-7DCC0B8BE1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicQueue", "ElectronicQueue\ElectronicQueue.csproj", "{15316C7B-42C9-4C68-AED4-B6E4AD3B65B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,5 +65,13 @@ Global
 		{A79DC33C-244B-4E3F-8E02-F5063ED94BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A79DC33C-244B-4E3F-8E02-F5063ED94BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A79DC33C-244B-4E3F-8E02-F5063ED94BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0288A4DC-80E8-44E4-A5A7-7DCC0B8BE1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0288A4DC-80E8-44E4-A5A7-7DCC0B8BE1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0288A4DC-80E8-44E4-A5A7-7DCC0B8BE1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0288A4DC-80E8-44E4-A5A7-7DCC0B8BE1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15316C7B-42C9-4C68-AED4-B6E4AD3B65B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15316C7B-42C9-4C68-AED4-B6E4AD3B65B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15316C7B-42C9-4C68-AED4-B6E4AD3B65B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15316C7B-42C9-4C68-AED4-B6E4AD3B65B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
