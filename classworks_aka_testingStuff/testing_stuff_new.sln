@@ -29,6 +29,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryReader", "BinaryReade
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllStream", "AllStream\AllStream.csproj", "{F1741724-CFA4-4731-9BB4-4FF4C93B39D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryWriter_Writer_todo", "BinaryWriter_Writer_todo\BinaryWriter_Writer_todo.csproj", "{970FCF37-8BC6-4C01-A706-4D0EBCCC81DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeNumbersInBinaryfile", "ChangeNumbersInBinaryfile\ChangeNumbersInBinaryfile.csproj", "{AC2816E7-8922-4D64-8DFD-34645C271D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeStandartInputStream", "ChangeStandartInputStream\ChangeStandartInputStream.csproj", "{97DDBC14-373A-43A6-A624-B16AE258CE67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleKirpitch", "RectangleKirpitch\RectangleKirpitch.csproj", "{BD0DB023-57D0-4B9A-9B45-0ADE63351A03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,5 +99,21 @@ Global
 		{F1741724-CFA4-4731-9BB4-4FF4C93B39D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1741724-CFA4-4731-9BB4-4FF4C93B39D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1741724-CFA4-4731-9BB4-4FF4C93B39D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970FCF37-8BC6-4C01-A706-4D0EBCCC81DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970FCF37-8BC6-4C01-A706-4D0EBCCC81DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970FCF37-8BC6-4C01-A706-4D0EBCCC81DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970FCF37-8BC6-4C01-A706-4D0EBCCC81DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC2816E7-8922-4D64-8DFD-34645C271D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2816E7-8922-4D64-8DFD-34645C271D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2816E7-8922-4D64-8DFD-34645C271D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2816E7-8922-4D64-8DFD-34645C271D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DDBC14-373A-43A6-A624-B16AE258CE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DDBC14-373A-43A6-A624-B16AE258CE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DDBC14-373A-43A6-A624-B16AE258CE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DDBC14-373A-43A6-A624-B16AE258CE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0DB023-57D0-4B9A-9B45-0ADE63351A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0DB023-57D0-4B9A-9B45-0ADE63351A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0DB023-57D0-4B9A-9B45-0ADE63351A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0DB023-57D0-4B9A-9B45-0ADE63351A03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
